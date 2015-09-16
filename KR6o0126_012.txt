@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:17.854723
+#+DATE: 2015-08-30 21:01:19.474586
 #+TITLE: 福蓋正行所集經
 #+PROPERTY: CBETA_ID T32n1671
 #+PROPERTY: ID KR6o0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1671
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0126_T_000-0719a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0126_T_012-0742c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 福蓋正行所集經卷第十二¶
+福蓋正行所集經卷第十二¶
 ¶
 龍樹菩薩集¶
 西天譯經三藏朝散大夫試鴻臚卿¶
@@ -41,7 +40,7 @@
 外餘所有物。以清淨心。而施與之。是人則為¶
 住聖種族。身心清涼。離諸熱惱。了知六處。無¶
 有真實。猶如癰疽。為物所覆。常為煩惱蚊虻¶
-𠯗食。諸有智者。勤求方便。依正念處。及八聖¶
+[口*(一/巾)]食。諸有智者。勤求方便。依正念處。及八聖¶
 道。善法香煙。而薰屏之。了知五蘊。猶如芭¶
 蕉。若生貪心。作不堅想。由彼貪故。失壞正¶
 道。先制諸根。令不散亂。漸令修習住三摩¶
