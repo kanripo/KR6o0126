@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:17.830702
+#+DATE: 2015-08-30 21:01:18.928488
 #+TITLE: 福蓋正行所集經
 #+PROPERTY: CBETA_ID T32n1671
 #+PROPERTY: ID KR6o0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1671
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6o0126_T_000-0719a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0126_T_011-0740c> ¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 福蓋正行所集經卷第十一¶
+福蓋正行所集經卷第十一¶
 ¶
 龍樹菩薩集¶
 西天譯經三藏朝散大夫¶
@@ -104,7 +103,7 @@
 集成軀。由先業故。而有七頭。一一頭上。有
 <pb:KR6o0126_T_011-0741c>¶
 伊羅樹。由彼樹故。動搖苦楚。膿血交流。極甚¶
-臭穢。無數蛆蟲之所𡄋食。復本形已。還至佛¶
+臭穢。無數蛆蟲之所[口*(贊-貝+日)]食。復本形已。還至佛¶
 所。彼龍之首。在嚩囉拏城。其尾所至。怚叉尸¶
 羅國。時諸大眾。久離貪者。覩是惡狀。猶生驚¶
 怖。咸作是念。此何有情。感報如是。而來此¶
