@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 福蓋正行所集經
+#+DATE: 2015-08-30 21:01:18.141793
+#+PROPERTY: JUAN 0
