@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:19.319183
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:58
 #+TITLE: 福蓋正行所集經
 #+PROPERTY: CBETA_ID T32n1671
 #+PROPERTY: ID KR6o0126
@@ -216,8 +216,8 @@
 　持寶瓔珞以奉獻
 　合掌右繞心忻慶¶
 　故我頂禮二足尊
-　能使人天生覺悟
+　能使人天生覺悟」
 #+END_VERSE
-」¶
+¶
 福蓋正行所集經卷第五¶
 
