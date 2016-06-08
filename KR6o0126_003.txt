@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:17.655979
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 福蓋正行所集經
 #+PROPERTY: CBETA_ID T32n1671
 #+PROPERTY: ID KR6o0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1671
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0126_T_000-0719a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0126_T_003-0723a> 
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 福蓋正行所集經卷第三¶
+福蓋正行所集經卷第三¶
 ¶
 龍樹菩薩集¶
 西天譯經三藏朝散大夫試鴻臚卿¶
@@ -141,7 +140,7 @@
 意云何。往昔國王供彼佛者。則我身是。由曩¶
 植因。今方成熟。得諸人天廣興供養。宿因今¶
 果。不差毫髮。由因感果。果如其因。於此正¶
-知。除諸疑網。善惡業報。決定不虛。猶如瀑¶
+知。除諸疑網。善惡業報。決定不虛。猶加瀑¶
 流。勢不可制。彼業力故。各招其報。地界水¶
 界。火界風界。及蘊處等。自作福因。則受樂¶
 果。于時世尊說伽陀曰。¶
@@ -150,9 +149,9 @@
 「　經於百千劫
 　彼業不可壞¶
 　因緣和合時
-　果報決定受
+　果報決定受」
 #+END_VERSE
-」¶
+¶
 
 諸比丘。是名福蓋正行。汝當受持。勤修施戒。¶
 及諸禪定。受用福蓋。得離熱惱。¶

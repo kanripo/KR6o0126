@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:17.780396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 福蓋正行所集經
 #+PROPERTY: CBETA_ID T32n1671
 #+PROPERTY: ID KR6o0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1671
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0126_T_000-0719a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0126_T_009-0736b> 
 #+PROPERTY: JUAN 9
 ¶
-
- 福蓋正行所集經卷第九¶
+福蓋正行所集經卷第九¶
 ¶
 龍樹菩薩集¶
 西天譯經三藏朝散大夫¶
@@ -196,9 +195,9 @@
 　如來出現於世間
 　如日騰空普明照¶
 　能與眾生作吉祥
-　天及非天咸信禮
+　天及非天咸信禮」
 #+END_VERSE
-」¶
+¶
 
 於是長者。偈讚佛已。心大歡喜。信力堅固。於¶
 大眾中。重說偈言。¶
@@ -260,8 +259,8 @@
 　如來大聖尊
 　及諸比丘眾¶
 　住最上安隱
-　能到於彼岸
+　能到於彼岸」
 #+END_VERSE
-」¶
+¶
 福蓋正行所集經卷第九¶
 

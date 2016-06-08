@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:17.800340
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 福蓋正行所集經
 #+PROPERTY: CBETA_ID T32n1671
 #+PROPERTY: ID KR6o0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1671
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0126_T_000-0719a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0126_T_010-0738b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 福蓋正行所集經卷第十¶
+福蓋正行所集經卷第十¶
 ¶
 龍樹菩薩集¶
 西天譯經三藏朝散大夫¶
@@ -77,9 +76,9 @@
 　具足一切智
 <pb:KR6o0126_T_010-0739a>¶
 　得最上菩提
-　如蓮華出水
+　如蓮華出水」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊。與彼長者。於大眾中。授佛記已。時¶
 頻婆娑羅王國內人民。咸發信心。歎未曾有。¶
@@ -190,9 +189,9 @@
 　汝作諸惡業
 　何不生驚怖¶
 　亦如漏舡舫
-　自他豈能渡
+　自他豈能渡」
 #+END_VERSE
-」¶
+¶
 
 佛言。破戒之人。無所堪任。由多欲故。心則多¶
 求。侵犯他色。常懷驚懼。失壞名聞。離善知¶
@@ -233,9 +232,9 @@
 　是知毀戒者
 　假名為沙門¶
 　不應受供養
-　失諸善功德
+　失諸善功德」
 #+END_VERSE
-」¶
+¶
 
 此中復說。譬如長者。而有多子。常加訓誨。令¶
 無放逸。即以庫藏。種種財物。奴婢僕從。悉付¶

@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:17.612366
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 福蓋正行所集經
 #+PROPERTY: CBETA_ID T32n1671
 #+PROPERTY: ID KR6o0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1671
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0126_T_000-0719a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0126_T_001-0719a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1671¶
-
- 福蓋正行所集經卷第一¶
+No. 1671¶
+福蓋正行所集經卷第一¶
 ¶
 龍樹菩薩集¶
 西天譯經三藏朝散大夫¶
@@ -45,9 +44,9 @@ No.1671¶
 　日月世燈明
 　隱蔽皆不現¶
 　諸天及世人
-　咸供養稱讚
+　咸供養稱讚」
 #+END_VERSE
-」¶
+¶
 
 聞是說已。欲何所作。當於佛言。尊重愛樂。彼¶
 智光明。如燈遠照。能破愚癡翳障黑暗。是¶
@@ -71,7 +70,7 @@ No.1671¶
 <pb:KR6o0126_T_001-0719c>¶
 趣。於前後際。俱不可得。現在少樂。剎那不¶
 住。猶如夢境。幻化陽焰。乾闥婆城。及旋火¶
-輪。如彼芭蕉。中無有實。如水上沫。須臾散¶
+輪。如彼芭蕉。中無有實。如水上沬。須臾散¶
 壞。愚夫不了。種種希取。以是緣故。多苦少¶
 樂。積集一切煩惱根本。是故應當作不堅想。¶
 作無常想。如是對治。則不為彼盜賊水火。官¶
